@@ -1,0 +1,15 @@
+c:\users\nuno\documents\visual studio 2013\Projects\piPORDATA_IS2015\WFA_AdminClient\bin\Debug\WFA_AdminClient.exe.config
+c:\users\nuno\documents\visual studio 2013\Projects\piPORDATA_IS2015\WFA_AdminClient\obj\Debug\WFA_AdminClient.csprojResolveAssemblyReference.cache
+c:\users\nuno\documents\visual studio 2013\Projects\piPORDATA_IS2015\WFA_AdminClient\obj\Debug\WFA_AdminClient.Form1.resources
+c:\users\nuno\documents\visual studio 2013\Projects\piPORDATA_IS2015\WFA_AdminClient\obj\Debug\WFA_AdminClient.Properties.Resources.resources
+c:\users\nuno\documents\visual studio 2013\Projects\piPORDATA_IS2015\WFA_AdminClient\obj\Debug\WFA_AdminClient.csproj.GenerateResource.Cache
+c:\users\nuno\documents\visual studio 2013\Projects\piPORDATA_IS2015\WFA_AdminClient\bin\Debug\WFA_AdminClient.exe
+c:\users\nuno\documents\visual studio 2013\Projects\piPORDATA_IS2015\WFA_AdminClient\bin\Debug\WFA_AdminClient.pdb
+c:\users\nuno\documents\visual studio 2013\Projects\piPORDATA_IS2015\WFA_AdminClient\bin\Debug\ExcelLib.dll
+c:\users\nuno\documents\visual studio 2013\Projects\piPORDATA_IS2015\WFA_AdminClient\bin\Debug\xmlLib.dll
+c:\users\nuno\documents\visual studio 2013\Projects\piPORDATA_IS2015\WFA_AdminClient\bin\Debug\ExcelLib.pdb
+c:\users\nuno\documents\visual studio 2013\Projects\piPORDATA_IS2015\WFA_AdminClient\bin\Debug\xmlLib.pdb
+c:\users\nuno\documents\visual studio 2013\Projects\piPORDATA_IS2015\WFA_AdminClient\obj\Debug\WFA_AdminClient.exe
+c:\users\nuno\documents\visual studio 2013\Projects\piPORDATA_IS2015\WFA_AdminClient\obj\Debug\WFA_AdminClient.pdb
+C:\Users\Nuno\Documents\Visual Studio 2013\Projects\piPORDATA_IS2015\WFA_AdminClient\bin\Debug\ModeloDados.dll
+C:\Users\Nuno\Documents\Visual Studio 2013\Projects\piPORDATA_IS2015\WFA_AdminClient\bin\Debug\ModeloDados.pdb

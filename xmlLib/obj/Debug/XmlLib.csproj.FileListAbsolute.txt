@@ -1,0 +1,7 @@
+c:\users\nuno\documents\visual studio 2013\Projects\piPORDATA_IS2015\xmlLib\bin\Debug\xmlLib.dll
+c:\users\nuno\documents\visual studio 2013\Projects\piPORDATA_IS2015\xmlLib\bin\Debug\xmlLib.pdb
+c:\users\nuno\documents\visual studio 2013\Projects\piPORDATA_IS2015\xmlLib\obj\Debug\xmlLib.dll
+c:\users\nuno\documents\visual studio 2013\Projects\piPORDATA_IS2015\xmlLib\obj\Debug\xmlLib.pdb
+C:\Users\Nuno\Documents\Visual Studio 2013\Projects\piPORDATA_IS2015\xmlLib\obj\Debug\XmlLib.csprojResolveAssemblyReference.cache
+C:\Users\Nuno\Documents\Visual Studio 2013\Projects\piPORDATA_IS2015\xmlLib\bin\Debug\ModeloDados.dll
+C:\Users\Nuno\Documents\Visual Studio 2013\Projects\piPORDATA_IS2015\xmlLib\bin\Debug\ModeloDados.pdb

@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA_AdminClient", "WFA_AdminClient\WFA_AdminClient.csproj", "{C96658B2-53F3-43F5-AC6E-AE0437419FBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlLib", "xmlLib\XmlLib.csproj", "{8BF177EB-749A-44EB-AF14-75BDCF5CC98A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelLib", "ExcelLib\ExcelLib.csproj", "{DA66E963-2516-419B-8883-89C88621947C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModeloDados", "ModeloDados\ModeloDados.csproj", "{0BDB5D2A-7E32-4ABB-B427-CED6A6ECF66E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServicePORDATA", "WcfServicePORDATA\WcfServicePORDATA.csproj", "{C67BD049-BDE3-49E2-88D4-EE80AC367E74}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://nunodomingues.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ExcelLib\\ExcelLib.csproj
+		SccProjectName1 = ExcelLib
+		SccLocalPath1 = ExcelLib
+		SccProjectUniqueName2 = ModeloDados\\ModeloDados.csproj
+		SccProjectName2 = ModeloDados
+		SccLocalPath2 = ModeloDados
+		SccProjectUniqueName3 = WFA_AdminClient\\WFA_AdminClient.csproj
+		SccProjectName3 = WFA_AdminClient
+		SccLocalPath3 = WFA_AdminClient
+		SccProjectUniqueName4 = xmlLib\\XmlLib.csproj
+		SccProjectName4 = xmlLib
+		SccLocalPath4 = xmlLib
+		SccProjectUniqueName5 = WcfServicePORDATA\\WcfServicePORDATA.csproj
+		SccProjectName5 = WcfServicePORDATA
+		SccLocalPath5 = WcfServicePORDATA
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C96658B2-53F3-43F5-AC6E-AE0437419FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C96658B2-53F3-43F5-AC6E-AE0437419FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C96658B2-53F3-43F5-AC6E-AE0437419FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C96658B2-53F3-43F5-AC6E-AE0437419FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BF177EB-749A-44EB-AF14-75BDCF5CC98A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BF177EB-749A-44EB-AF14-75BDCF5CC98A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BF177EB-749A-44EB-AF14-75BDCF5CC98A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BF177EB-749A-44EB-AF14-75BDCF5CC98A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA66E963-2516-419B-8883-89C88621947C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA66E963-2516-419B-8883-89C88621947C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA66E963-2516-419B-8883-89C88621947C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA66E963-2516-419B-8883-89C88621947C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BDB5D2A-7E32-4ABB-B427-CED6A6ECF66E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BDB5D2A-7E32-4ABB-B427-CED6A6ECF66E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BDB5D2A-7E32-4ABB-B427-CED6A6ECF66E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BDB5D2A-7E32-4ABB-B427-CED6A6ECF66E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C67BD049-BDE3-49E2-88D4-EE80AC367E74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C67BD049-BDE3-49E2-88D4-EE80AC367E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C67BD049-BDE3-49E2-88D4-EE80AC367E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C67BD049-BDE3-49E2-88D4-EE80AC367E74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

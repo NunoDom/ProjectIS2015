@@ -1,0 +1,5 @@
+C:\Users\Nuno\Documents\Visual Studio 2013\Projects\piPORDATA_IS2015\ModeloDados\bin\Debug\ModeloDados.dll
+C:\Users\Nuno\Documents\Visual Studio 2013\Projects\piPORDATA_IS2015\ModeloDados\bin\Debug\ModeloDados.pdb
+C:\Users\Nuno\Documents\Visual Studio 2013\Projects\piPORDATA_IS2015\ModeloDados\obj\Debug\ModeloDados.dll
+C:\Users\Nuno\Documents\Visual Studio 2013\Projects\piPORDATA_IS2015\ModeloDados\obj\Debug\ModeloDados.pdb
+C:\Users\Nuno\Documents\Visual Studio 2013\Projects\piPORDATA_IS2015\ModeloDados\obj\Debug\ModeloDados.csprojResolveAssemblyReference.cache

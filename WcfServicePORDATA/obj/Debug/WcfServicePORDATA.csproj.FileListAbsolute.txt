@@ -1,0 +1,6 @@
+C:\Users\Nuno\Documents\Visual Studio 2013\Projects\piPORDATA_IS2015\WcfServicePORDATA\obj\Debug\WcfServicePORDATA.csprojResolveAssemblyReference.cache
+C:\Users\Nuno\Documents\Visual Studio 2013\Projects\piPORDATA_IS2015\WcfServicePORDATA\bin\WcfServicePORDATA.dll.config
+C:\Users\Nuno\Documents\Visual Studio 2013\Projects\piPORDATA_IS2015\WcfServicePORDATA\bin\WcfServicePORDATA.dll
+C:\Users\Nuno\Documents\Visual Studio 2013\Projects\piPORDATA_IS2015\WcfServicePORDATA\bin\WcfServicePORDATA.pdb
+C:\Users\Nuno\Documents\Visual Studio 2013\Projects\piPORDATA_IS2015\WcfServicePORDATA\obj\Debug\WcfServicePORDATA.dll
+C:\Users\Nuno\Documents\Visual Studio 2013\Projects\piPORDATA_IS2015\WcfServicePORDATA\obj\Debug\WcfServicePORDATA.pdb

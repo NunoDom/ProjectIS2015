@@ -1,0 +1,7 @@
+c:\users\nuno\documents\visual studio 2013\Projects\piPORDATA_IS2015\ExcelLib\bin\Debug\ExcelLib.dll
+c:\users\nuno\documents\visual studio 2013\Projects\piPORDATA_IS2015\ExcelLib\bin\Debug\ExcelLib.pdb
+c:\users\nuno\documents\visual studio 2013\Projects\piPORDATA_IS2015\ExcelLib\obj\Debug\ExcelLib.csprojResolveAssemblyReference.cache
+c:\users\nuno\documents\visual studio 2013\Projects\piPORDATA_IS2015\ExcelLib\obj\Debug\ExcelLib.dll
+c:\users\nuno\documents\visual studio 2013\Projects\piPORDATA_IS2015\ExcelLib\obj\Debug\ExcelLib.pdb
+C:\Users\Nuno\Documents\Visual Studio 2013\Projects\piPORDATA_IS2015\ExcelLib\bin\Debug\ModeloDados.dll
+C:\Users\Nuno\Documents\Visual Studio 2013\Projects\piPORDATA_IS2015\ExcelLib\bin\Debug\ModeloDados.pdb
