@@ -14,7 +14,8 @@ namespace WcfServicePORDATA
     {
         // custo médio de um funcionário;
         [OperationContract]
-        string GetCustoMedioFuncionario(DateTime dataInicio, DateTime dataFim);
+        [WebInvoke(Method = "POST", UriTemplate = "/Funcionarios?dataInicio={dataInicio}&dataFim={dataFim}")]
+        string GetCustoMedioFuncionario(String dataInicio, String dataFim);
 
         //custo médio de um médico, enfermeiros e técnicos;
    //     [OperationContract]

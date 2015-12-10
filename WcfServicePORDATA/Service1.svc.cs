@@ -25,10 +25,10 @@ namespace WcfServicePORDATA
 
 
         // custo médio de um funcionário;
-        public string GetCustoMedioFuncionario(DateTime dataInicio, DateTime dataFim)
+        public string GetCustoMedioFuncionario(String dataInicio, String dataFim)
         {
 
-            XmlNodeList DespesasSNS = Dados.SelectNodes("//DespesadoSNS");
+     //       XmlNodeList DespesasSNS = Dados.SelectNodes("//DespesadoSNS");
             return null;
         }
 
