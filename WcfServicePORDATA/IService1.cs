@@ -23,7 +23,7 @@ namespace WcfServicePORDATA
 
         //número de funcionários;
      //   [OperationContract]
-     //   string GetNumeroFuncionarios(DateTime dataInicio, DateTime dataFim);
+     //   string GetNumeroF  uncionarios(DateTime dataInicio, DateTime dataFim);
 
         //número de médicos, enfermeiros e técnicos;
     //    [OperationContract]
