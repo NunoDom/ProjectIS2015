@@ -19,7 +19,7 @@ namespace WcfServicePORDATA
 
         //custo médio de um médico, enfermeiros e técnicos;
    //     [OperationContract]
-   //     string GetCustoMedioMedicoEnfTec(DateTime dataInicio, DateTime dataFim);
+   //     string GetCustoMedioMed      icoEnfTec(DateTime dataInicio, DateTime dataFim);
 
         //número de funcionários;
      //   [OperationContract]
